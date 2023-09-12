@@ -4,7 +4,9 @@ You are given five files: `Customers_[Vilnius, Kaunas, Other].xlsx`, `Items.xlsx
 
 The data provided is synthetic – i.e. it has been randomly generated. However, imagine that these data files have come from a database of a retail store chain. 
 The management of the store chain wants to learn more about their customers and have asked you to makes sense of the data. 
-The aim of the task is to create a PowerBI dashboard, which would contain some key insights from the data provided. The dashboard should contain some aggregate metrics (e.g. group means) and visualizations. 
+You will need to identify which metrics and dimentions from the provided data are the most important and represent the most valuable insights.
+The aim of the task is to create a PowerBI dashboard, which would contain some key insights from the data provided. 
+The dashboard should contain some aggregate metrics (e.g. group means) and visualizations. 
 
 **You should not spend more than two hours for this task.** 
 
@@ -16,3 +18,8 @@ Each of the `Customers_*.xlsx` files corresponds to customer data extracted from
 `Items.xlsx` contains some basic data on the items being sold. Each item is uniquely identified by the variable `p_id`. 
 
 `Baskets.xlsx` contains data on the shopping behavior of customers. At what time, they bought which items. 
+
+## Deliverable 
+
+As the outcome of this task you should prepare a standalone Power BI dashboard ( *.pbix file ). 
+Please send the completed task to lukas.pukelis@inspired.lt
